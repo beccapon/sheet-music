@@ -195,6 +195,8 @@ dtob = {\pgrace{d32[c]}}
   \grg a8. d16 \grg f8 e16 d \grg b4 e |
   \grg 
 
+  
+
    
    
    
@@ -208,7 +210,7 @@ dtob = {\pgrace{d32[c]}}
 
   \header {%open header
     meter = ""
-    title = "Time Me Kangaroo Down Sport"
+    title = "Tie Me Kangaroo Down Sport"
     arranger = ""
   }%close header
 
