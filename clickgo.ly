@@ -198,7 +198,7 @@ dtob = {\pgrace{d32[c]}}
   \dblc c4 \grg c8. b16 \grG a4 \grg c8. e16 |
   A4 \grg A8. g16 \grA f4~f |
   \grg e8. A16 g8. f16 \grg e8. d16 \grg c8. b16 |
-  \grG a8. A16 \grg A8. g16 \dblA A4~A 
+  \grG a8. A16 \grg A8. g16 \dblA A4~A \bar "|."
 
 
   
