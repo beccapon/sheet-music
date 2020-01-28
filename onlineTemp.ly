@@ -1,5 +1,5 @@
-
-
+\version "2.18.2"
+% heading shit-----------------------
 #(use-modules (srfi srfi-19))
 today = #(date->string (current-date) "~B ~e, ~Y")
 
@@ -30,8 +30,8 @@ today = #(date->string (current-date) "~B ~e, ~Y")
         }
     }
 }
+% end heading shit --------------------
 
-\version "2.18.2"
 
 % Bagpipe music is written in something like D major. If we use
 % flattened notes, the flat should be shown on all instances.
@@ -170,15 +170,21 @@ ahshakeg = { \pgrace { g32[ f g a] } }
 ahshakeA = { \pgrace { A32[ g A a] } }
 dtob = {\pgrace{d32[c]}}
 
-shicunt= cunt
 
 
 
 
-\include "bagpipe.ly"
 
 
 
+
+
+
+
+
+
+
+%Start regular score--------------------
 
 #(set-global-staff-size 20)
 #(set-default-paper-size "a4" 'portrait)
