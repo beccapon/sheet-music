@@ -200,7 +200,7 @@ dtob = {\pgrace{d32[c]}}
     \grg f4 \grg f8 \gre f \grg e4 \gra e |
     \grg d8. e16 \grg f8 d \grg b c \thrwd d4 |
     \grg a4 \grg d8 f \dblA A4 \grg g8 f |
-    \dble e4 \gra e8 c \thrwd d4 ~ d | \break
+    \dble e4 \gra e8 c \thrwd d4 ~ d \bar "||"
 
     A4 \grg A \grip A f |
     \thrwd d \grg d8 c \dblb b4 \gre a |
@@ -210,7 +210,7 @@ dtob = {\pgrace{d32[c]}}
     \grg f4 \grg f8 \gre f \grg e4 \gra e |
     \grg d8. e16 \grg f8 d \grg b c \thrwd d4 |
     \grg a4 \grg d8 f \dblA A4 \grg g8 f |
-    \dble e4 \gra e8 c \thrwd d4 ~ d |\bar "|."
+    \dble e4 \gra e8 c \thrwd d4 ~ d \bar "|."
 
    
    
