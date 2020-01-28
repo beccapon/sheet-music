@@ -195,7 +195,22 @@ dtob = {\pgrace{d32[c]}}
     \grg f4 \grg f8 \gre f \grg e4 \gra e |
     \grg d8. e16 \grg f8 d \grg b c \thrwd d4 |
     \grg a4 \grg d8 f A4 \grg A |
+    \grip A \grg g8 f \dble e4 \grg d8 e | \break
     
+    \grg f4 \grg f8 \gre f \grg e4 \gra e |
+    \grg d8. e16 \grg f8 d \grg b c \thrwd d4 |
+    \grg a4 \grg d8 f \dblA A4 \grg g8 f |
+    \dble e4 \gra e8 c \thrwd d4 ~ d | \break
+
+    A4 \grg A \grip A f |
+    \thrwd d \grg d8 c \dblb b4 \gre a |
+    \grg a4 \wbirl a8 b \dblb b4 \grg a8 f |
+    \grg f4 \grg e8 d \dble e4 \grg d8 e | \break
+
+    \grg f4 \grg f8 \gre f \grg e4 \gra e |
+    \grg d8. e16 \grg f8 d \grg b c \thrwd d4 |
+    \grg a4 \grg d8 f \dblA A4 \grg g8 f |
+    \dble e4 \gra e8 c \thrwd d4 ~ d |\bar "|."
 
    
    
