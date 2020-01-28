@@ -1,13 +1,4 @@
-\version "2.18.2"
 
-
-%{
-    Header formatting for bagpipe tunes. Customize to get your name in the tag line.
-%}
-
-\version "2.18.2"
-
-% Bring in the time/date package. Set format to month day, year
 
 #(use-modules (srfi srfi-19))
 today = #(date->string (current-date) "~B ~e, ~Y")
@@ -202,44 +193,7 @@ shicunt= cunt
     \bagpipeKey %fucks off the sharps and shit
 
   %music goes here
-  \time 6/8
-  \bar ".|:"
-   \grg a8 \grd c e \dble e c e | 
-   \grg f8 e c \dble e c \grG a | 
-   \grg a8 \grd c e \dble e d c |
-   \grg d8 b \grG b \grg G4 \grd b8 | \break
-   \grg a8 \grd c e \dble e c e | 
-   \grg f8 e c \dble e c \grG a |  
-   \grg b8 \grd b \gre b \grg c e \gra e |
-   \grg f8 b \grG b \gbirl a4. | \bar ":|.:" \break
-   
-
-   \grg a8 f \gre f \grg a e \gra e |
-   \grg a8 d \grG d \shaked d4 a8 |
-  \grg b8 d \grG d \grg b e \gra e |
- \grg d8 b \grG b \grg G4 \grd b8 | \break
-   \grg a8 f \gre f \grg a e \gra e |
-   \grg a8 d \grG d \grg a8 c \grG c |
-   \grg b8 \grd b \gre b \grg c e \gra e |
-   \grg f8 b \grG b \gbirl a4. | \bar ":|.:" \break
-   
-   \grg a8 e \gra e \dble e c e |
-   \grg a8  \grd a \gre a \dre e4 f8 |
-    \grg a8 e \gra e \dble e c e |
-   \grg f8 b \grG b \grg G4 \grd b8 | \break
-    \grg a8 e \gra e \dble e c e |
-   \grg a8  \grd a \gre a \dre e4 f8 |
-   \grg b8 \grd b \gre b \grg c e \gra e |
-   \grg f8 b \grG b \gbirl a4. | \bar ":|.:" \break
-   
-   \grg e8 A \grg A g A \grg A |
-   d8 A \grg A f4 c8 |
-   \tuplet 3/2 {\grg b c d } c8~ c \tuplet 3/2 {\grg c d e } | 
-   \grg f8 b \grG b \grg G4 \grd b8 | \break
-  \grg e8 A \grg A g A \grg A |
-   d8 A \grg A f A \grg A |
-   \grg b8 \grd b \gre b \grg c e \gra e |
-    \grg f8 b \grG b \gbirl a4. | \bar ":|.:" \break
+  
     
    
    
