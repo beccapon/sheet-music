@@ -2,9 +2,7 @@
 % heading shit-----------------------
 #(use-modules (srfi srfi-19))
 today = #(date->string (current-date) "~B ~e, ~Y")
-
 \paper {
-
 	print-page-number
     raggedbottom = ##t
     tagline = \markup {
@@ -39,20 +37,13 @@ bagpipeKey = {
     \key d \major
     #(set-accidental-style 'forget)
 }
-
 \layout {
   indent = 0.0
-
-
-
   \context {
     \StaffGroup
-
 %    between-system-space = #0.1
 %    between-system-padding = #0.0
-
     extraNatural = ##f
-
     \override KeySignature #'stencil = ##f
   }
 
