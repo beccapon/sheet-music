@@ -192,10 +192,56 @@ dtob = {\pgrace{d32[c]}}
   %music goes here
   
    \time 2/4
-   \partial 8 \dble e8 | \grg a 16. b 32 \grg c \grd a 16. \grg c32 e 16. \grg a \grd b 32 |
+   \partial 8 \dble e8 | 
+   \grg a 16. b 32 \grg c \grd a 16. \grg c32 e 16. \grg a \grd b 32 |
    \grg c 8 \taor c 16. e 32 \dblf f 8 A 16. f 32 |
    \dble e 8 A 16. e 32 \dblc c 8 \gre a16. \grd c 32 |
-   
+   \dble e 16. c32 \grg b \grd a 16. \grip b 8 \dble e |
+   \grg a 16. b 32 \grg c \grd a 16. \grg c32 e 16. \grg a \grd b 32 |
+   \grg c 8 \taor c 16. e 32 \dblf f 8 A 16. f 32 |
+   \dblc c 8 \gre a16. e 32 \dble e 16. c32 \grg b e 16. |
+   \dblc c 8 \gre a \wbirl a 8 \bar ":|." \break
+
+   \partial 8 \dblg g 8 | 
+   \dblA A 8 ~ A 16. e 32 \grg c e16. \grg a 16. e 32 |
+   \dbld d 16. c32 \grg b \grd a 16. \dblc c 8 A 16. f 32 |
+   \dble e 16. c32 \grg b \grd a 16. \grip b 8 \dblg g |
+   \dblA A 8 ~ A 16. e 32 \grg c e16. \grg a 16. e 32 |
+   \dbld d 8 c32 \grip e 16. \dblf f 8 A 16. e 32 |
+   \dblc c 8 \gre a16. e 32 \dble e 16. c32 \grg b e 16. |
+   \dblc c 8 \gre a \wbirl a 8 \bar ":|." \break
+
+   \partial 8 \grg a 16.\grd c 32 |
+   \grg c 32 e 16. \grg d 32 f 16. \grg c 32 e 16. \grg a 16. e 32 |
+   \dbld d 16. c32 \grg b \grd a 16. \dblc c 8 A 16. f 32 |
+   \grg e 32 A 16. \hdblf f 16. e 32 \grg c 32 e 16. \grg a 16. \grg c 32 |
+   \dble e 16. c 32 \grg b \grd a 16. \grip b 8 \grg a 16. \grd c 32 |
+   \grg c 32 e 16. \grg d 32 f 16. \grg c 32 e 16. \grg a 16. e 32 |
+   \dbld d 8 c 32 \grip e 16. \dblf f 8 A 16. e 32 |
+   \dblc c 8 \gre a16. e 32 \dble e 16. c32 \grg b e 16. |
+   \dblc c 8 \gre a \wbirl a 8 \bar ":|." \break
+
+   \partial 8 \dblg g 8 | 
+   A 16. e 32 \grg c e 16. \grg c 32 \grd a 16. \grg e f 32 |
+   \dblf f 16. e 32 \grg c e 16. \dble e d 32 \dbld d 16. c 32 |
+   A 16. f 32 \grg e A 16. \hdblf f 16. e 32 \grg c e 16. |
+   \grg a 16. \grd c 32 \dble e 16. c 32 \slurb b 8 \dblg g |
+   A 16. e 32 \grg c 32 e 16. \grg c 32 \grd a 16. \dble e16. c 32 |
+   \dbld d 8 c 32 \grip e 16. \dblf f 8 A 16. e 32 |
+   \dblc c 
+
+8 \gre a 16. e 32 \dbld 16. c 32 \grg b e 16. |
+
+
+
+
+
+
+
+
+
+
+
    
    
    
